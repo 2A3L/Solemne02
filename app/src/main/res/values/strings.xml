@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solemne02</string>
+    <string name="login">Login</string>
+    <string name="disfruta_nuestra_ofertas_y_novedades_directamente">disfruta nuestra ofertas y novedades directamente</string>
+    <string name="ingrese_rut">Ingrese rut</string>
+    <string name="ingrese_contrase_a">Ingrese contraseña</string>
+    <string name="name">Name</string>
+    <string name="calcular">calcular</string>
+    <string name="deudas">Deudas</string>
+    <string name="textview">TextView</string>
+    <string name="rut_persona">Rut persona</string>
+</resources>
